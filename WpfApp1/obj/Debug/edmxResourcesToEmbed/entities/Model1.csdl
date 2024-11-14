@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="user88_dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Final_Add_Lectures">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Professors" Type="Int32" Nullable="false" />
+    <Property Name="ID_Courses" Type="Int32" Nullable="false" />
+    <Property Name="NumClass" Type="Int32" Nullable="false" />
+    <Property Name="NumRoom" Type="Int32" Nullable="false" />
+    <Property Name="DateOfClass" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Final_Courses" Relationship="Self.FK_Final_Add_Lectures_Final_Courses" FromRole="Final_Add_Lectures" ToRole="Final_Courses" />
+    <NavigationProperty Name="Final_Professors" Relationship="Self.FK_Final_Add_Lectures_Final_Professors" FromRole="Final_Add_Lectures" ToRole="Final_Professors" />
+  </EntityType>
+  <EntityType Name="Final_Courses">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CourseName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MaxHours" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <Property Name="ProfessorID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Final_Add_Lectures" Relationship="Self.FK_Final_Add_Lectures_Final_Courses" FromRole="Final_Courses" ToRole="Final_Add_Lectures" />
+    <NavigationProperty Name="Final_Departments" Relationship="Self.FK_Final_Courses_Final_Departments" FromRole="Final_Courses" ToRole="Final_Departments" />
+    <NavigationProperty Name="Final_Professors" Relationship="Self.FK_Final_Courses_Final_Professors" FromRole="Final_Courses" ToRole="Final_Professors" />
+    <NavigationProperty Name="Final_Schedule" Relationship="Self.FK_Final_Schedule_Final_Courses" FromRole="Final_Courses" ToRole="Final_Schedule" />
+  </EntityType>
+  <EntityType Name="Final_Departments">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DepartmentName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="HeadOfDepartment" Type="Int32" Nullable="false" />
+    <Property Name="PlaceOfDepartment" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Final_Courses" Relationship="Self.FK_Final_Courses_Final_Departments" FromRole="Final_Departments" ToRole="Final_Courses" />
+    <NavigationProperty Name="Final_Professors" Relationship="Self.FK_Final_Departments_Final_Professors" FromRole="Final_Departments" ToRole="Final_Professors" />
+    <NavigationProperty Name="Final_Professors1" Relationship="Self.FK_Final_Professors_Final_Departments" FromRole="Final_Departments" ToRole="Final_Professors" />
+    <NavigationProperty Name="Final_Students" Relationship="Self.FK_Final_Students_Final_Departments" FromRole="Final_Departments" ToRole="Final_Students" />
+  </EntityType>
+  <EntityType Name="Final_Professors">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Patronimyc" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Final_Add_Lectures" Relationship="Self.FK_Final_Add_Lectures_Final_Professors" FromRole="Final_Professors" ToRole="Final_Add_Lectures" />
+    <NavigationProperty Name="Final_Courses" Relationship="Self.FK_Final_Courses_Final_Professors" FromRole="Final_Professors" ToRole="Final_Courses" />
+    <NavigationProperty Name="Final_Departments" Relationship="Self.FK_Final_Departments_Final_Professors" FromRole="Final_Professors" ToRole="Final_Departments" />
+    <NavigationProperty Name="Final_Departments1" Relationship="Self.FK_Final_Professors_Final_Departments" FromRole="Final_Professors" ToRole="Final_Departments" />
+    <NavigationProperty Name="Final_Schedule" Relationship="Self.FK_Final_Schedule_Final_Professors" FromRole="Final_Professors" ToRole="Final_Schedule" />
+  </EntityType>
+  <EntityType Name="Final_Schedule">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Professors" Type="Int32" Nullable="false" />
+    <Property Name="ID_Courses" Type="Int32" Nullable="false" />
+    <Property Name="NumClass" Type="Int32" Nullable="false" />
+    <Property Name="NumRoom" Type="Int32" Nullable="false" />
+    <Property Name="DateOfClass" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ClassLeft" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Final_Courses" Relationship="Self.FK_Final_Schedule_Final_Courses" FromRole="Final_Schedule" ToRole="Final_Courses" />
+    <NavigationProperty Name="Final_Professors" Relationship="Self.FK_Final_Schedule_Final_Professors" FromRole="Final_Schedule" ToRole="Final_Professors" />
+  </EntityType>
+  <EntityType Name="Final_Students">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Patronimyc" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="EnrollmentDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Final_Departments" Relationship="Self.FK_Final_Students_Final_Departments" FromRole="Final_Students" ToRole="Final_Departments" />
+  </EntityType>
+  <Association Name="FK_Final_Add_Lectures_Final_Courses">
+    <End Role="Final_Courses" Type="Self.Final_Courses" Multiplicity="1" />
+    <End Role="Final_Add_Lectures" Type="Self.Final_Add_Lectures" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Courses">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Add_Lectures">
+        <PropertyRef Name="ID_Courses" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Add_Lectures_Final_Professors">
+    <End Role="Final_Professors" Type="Self.Final_Professors" Multiplicity="1" />
+    <End Role="Final_Add_Lectures" Type="Self.Final_Add_Lectures" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Professors">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Add_Lectures">
+        <PropertyRef Name="ID_Professors" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Courses_Final_Departments">
+    <End Role="Final_Departments" Type="Self.Final_Departments" Multiplicity="1" />
+    <End Role="Final_Courses" Type="Self.Final_Courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Departments">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Courses">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Courses_Final_Professors">
+    <End Role="Final_Professors" Type="Self.Final_Professors" Multiplicity="1" />
+    <End Role="Final_Courses" Type="Self.Final_Courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Professors">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Courses">
+        <PropertyRef Name="ProfessorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Schedule_Final_Courses">
+    <End Role="Final_Courses" Type="Self.Final_Courses" Multiplicity="1" />
+    <End Role="Final_Schedule" Type="Self.Final_Schedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Courses">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Schedule">
+        <PropertyRef Name="ID_Courses" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Departments_Final_Professors">
+    <End Role="Final_Professors" Type="Self.Final_Professors" Multiplicity="1" />
+    <End Role="Final_Departments" Type="Self.Final_Departments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Professors">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Departments">
+        <PropertyRef Name="HeadOfDepartment" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Professors_Final_Departments">
+    <End Role="Final_Departments" Type="Self.Final_Departments" Multiplicity="1" />
+    <End Role="Final_Professors" Type="Self.Final_Professors" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Departments">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Professors">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Students_Final_Departments">
+    <End Role="Final_Departments" Type="Self.Final_Departments" Multiplicity="1" />
+    <End Role="Final_Students" Type="Self.Final_Students" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Departments">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Students">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Final_Schedule_Final_Professors">
+    <End Role="Final_Professors" Type="Self.Final_Professors" Multiplicity="1" />
+    <End Role="Final_Schedule" Type="Self.Final_Schedule" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Final_Professors">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Final_Schedule">
+        <PropertyRef Name="ID_Professors" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="user88_dbEntities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Final_Add_Lectures" EntityType="Self.Final_Add_Lectures" />
+    <EntitySet Name="Final_Courses" EntityType="Self.Final_Courses" />
+    <EntitySet Name="Final_Departments" EntityType="Self.Final_Departments" />
+    <EntitySet Name="Final_Professors" EntityType="Self.Final_Professors" />
+    <EntitySet Name="Final_Schedule" EntityType="Self.Final_Schedule" />
+    <EntitySet Name="Final_Students" EntityType="Self.Final_Students" />
+    <AssociationSet Name="FK_Final_Add_Lectures_Final_Courses" Association="Self.FK_Final_Add_Lectures_Final_Courses">
+      <End Role="Final_Courses" EntitySet="Final_Courses" />
+      <End Role="Final_Add_Lectures" EntitySet="Final_Add_Lectures" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Add_Lectures_Final_Professors" Association="Self.FK_Final_Add_Lectures_Final_Professors">
+      <End Role="Final_Professors" EntitySet="Final_Professors" />
+      <End Role="Final_Add_Lectures" EntitySet="Final_Add_Lectures" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Courses_Final_Departments" Association="Self.FK_Final_Courses_Final_Departments">
+      <End Role="Final_Departments" EntitySet="Final_Departments" />
+      <End Role="Final_Courses" EntitySet="Final_Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Courses_Final_Professors" Association="Self.FK_Final_Courses_Final_Professors">
+      <End Role="Final_Professors" EntitySet="Final_Professors" />
+      <End Role="Final_Courses" EntitySet="Final_Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Schedule_Final_Courses" Association="Self.FK_Final_Schedule_Final_Courses">
+      <End Role="Final_Courses" EntitySet="Final_Courses" />
+      <End Role="Final_Schedule" EntitySet="Final_Schedule" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Departments_Final_Professors" Association="Self.FK_Final_Departments_Final_Professors">
+      <End Role="Final_Professors" EntitySet="Final_Professors" />
+      <End Role="Final_Departments" EntitySet="Final_Departments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Professors_Final_Departments" Association="Self.FK_Final_Professors_Final_Departments">
+      <End Role="Final_Departments" EntitySet="Final_Departments" />
+      <End Role="Final_Professors" EntitySet="Final_Professors" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Students_Final_Departments" Association="Self.FK_Final_Students_Final_Departments">
+      <End Role="Final_Departments" EntitySet="Final_Departments" />
+      <End Role="Final_Students" EntitySet="Final_Students" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Final_Schedule_Final_Professors" Association="Self.FK_Final_Schedule_Final_Professors">
+      <End Role="Final_Professors" EntitySet="Final_Professors" />
+      <End Role="Final_Schedule" EntitySet="Final_Schedule" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

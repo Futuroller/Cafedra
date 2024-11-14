@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e2ebbb89ebb14f689a0e1aa95dc9cf6c" Name="Diagram1">
+        <EntityTypeShape EntityType="user88_dbModel.Final_Add_Lectures" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="user88_dbModel.Final_Courses" Width="1.5" PointX="5.25" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="user88_dbModel.Final_Departments" Width="1.5" PointX="3" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="user88_dbModel.Final_Professors" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="user88_dbModel.Final_Schedule" Width="1.5" PointX="7.5" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="user88_dbModel.Final_Students" Width="1.5" PointX="5.25" PointY="11.625" IsExpanded="true" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Add_Lectures_Final_Courses" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Add_Lectures_Final_Professors" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Courses_Final_Departments" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Courses_Final_Professors" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Schedule_Final_Courses" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Departments_Final_Professors" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Professors_Final_Departments" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Students_Final_Departments" ManuallyRouted="false" />
+        <AssociationConnector Association="user88_dbModel.FK_Final_Schedule_Final_Professors" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище user88_dbModelContainer" CdmEntityContainer="user88_dbEntities3">
+    <EntitySetMapping Name="Final_Add_Lectures">
+      <EntityTypeMapping TypeName="user88_dbModel.Final_Add_Lectures">
+        <MappingFragment StoreEntitySet="Final_Add_Lectures">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_Professors" ColumnName="ID_Professors" />
+          <ScalarProperty Name="ID_Courses" ColumnName="ID_Courses" />
+          <ScalarProperty Name="NumClass" ColumnName="NumClass" />
+          <ScalarProperty Name="NumRoom" ColumnName="NumRoom" />
+          <ScalarProperty Name="DateOfClass" ColumnName="DateOfClass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Final_Courses">
+      <EntityTypeMapping TypeName="user88_dbModel.Final_Courses">
+        <MappingFragment StoreEntitySet="Final_Courses">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+          <ScalarProperty Name="MaxHours" ColumnName="MaxHours" />
+          <ScalarProperty Name="DepartmentID" ColumnName="DepartmentID" />
+          <ScalarProperty Name="ProfessorID" ColumnName="ProfessorID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Final_Departments">
+      <EntityTypeMapping TypeName="user88_dbModel.Final_Departments">
+        <MappingFragment StoreEntitySet="Final_Departments">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DepartmentName" ColumnName="DepartmentName" />
+          <ScalarProperty Name="HeadOfDepartment" ColumnName="HeadOfDepartment" />
+          <ScalarProperty Name="PlaceOfDepartment" ColumnName="PlaceOfDepartment" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Final_Professors">
+      <EntityTypeMapping TypeName="user88_dbModel.Final_Professors">
+        <MappingFragment StoreEntitySet="Final_Professors">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Patronimyc" ColumnName="Patronimyc" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="DepartmentID" ColumnName="DepartmentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Final_Schedule">
+      <EntityTypeMapping TypeName="user88_dbModel.Final_Schedule">
+        <MappingFragment StoreEntitySet="Final_Schedule">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_Professors" ColumnName="ID_Professors" />
+          <ScalarProperty Name="ID_Courses" ColumnName="ID_Courses" />
+          <ScalarProperty Name="NumClass" ColumnName="NumClass" />
+          <ScalarProperty Name="NumRoom" ColumnName="NumRoom" />
+          <ScalarProperty Name="DateOfClass" ColumnName="DateOfClass" />
+          <ScalarProperty Name="ClassLeft" ColumnName="ClassLeft" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Final_Students">
+      <EntityTypeMapping TypeName="user88_dbModel.Final_Students">
+        <MappingFragment StoreEntitySet="Final_Students">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Patronimyc" ColumnName="Patronimyc" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="EnrollmentDate" ColumnName="EnrollmentDate" />
+          <ScalarProperty Name="DepartmentID" ColumnName="DepartmentID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

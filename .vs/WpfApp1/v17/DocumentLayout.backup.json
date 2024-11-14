@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WpfApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\profwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\profwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\profadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\profadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\schedulelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\schedulelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\courseadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\courseadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\courseedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\courseedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\courseslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\courseslist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\departadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\departedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\departlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\departlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\editlecture.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editlecture.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\profedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\profedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\proflist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\proflist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\scheduleadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\scheduleadd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\scheduleedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\scheduleedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\useradd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\useradd.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\useredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\useredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\userlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\userlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\addlecture.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addlecture.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\scheduleadd.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\scheduleadd.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\schedulelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\schedulelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\editlecture.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\editlecture.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\profwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\profwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\addlecture.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\addlecture.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\wpfapp1\\entities\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\entities\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB77B5-C356-4761-BC69-CF7D343A4BB7}|WpfApp1\\WpfApp1.csproj|c:\\users\\kirokumi\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\kafedra\\wpfapp1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ProfWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ProfWindow.xaml.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAIAwwJ4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:53:25.255Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProfWindow.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\ProfWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T20:51:50.33Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddLecture.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\AddLecture.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AddLecture.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\AddLecture.xaml",
+              "RelativeToolTip": "WpfApp1\\AddLecture.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:03:48.605Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditLecture.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\EditLecture.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\EditLecture.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\EditLecture.xaml",
+              "RelativeToolTip": "WpfApp1\\EditLecture.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:04:09.01Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WpfApp1",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T10:08:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScheduleList.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleList.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ScheduleList.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleList.xaml",
+              "RelativeToolTip": "WpfApp1\\ScheduleList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:37:28.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfAdd.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProfAdd.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfAdd.xaml",
+              "RelativeToolTip": "WpfApp1\\ProfAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T13:18:40.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\CourseAdd.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\CourseAdd.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\CourseAdd.xaml",
+              "RelativeToolTip": "WpfApp1\\CourseAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\CourseEdit.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\CourseEdit.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\CourseEdit.xaml",
+              "RelativeToolTip": "WpfApp1\\CourseEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:21.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursesList.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\CoursesList.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\CoursesList.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\CoursesList.xaml",
+              "RelativeToolTip": "WpfApp1\\CoursesList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:36:11.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\DepartAdd.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartAdd.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\DepartAdd.xaml",
+              "RelativeToolTip": "WpfApp1\\DepartAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:27.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\DepartEdit.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartEdit.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\DepartEdit.xaml",
+              "RelativeToolTip": "WpfApp1\\DepartEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:30.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartList.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\DepartList.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\DepartList.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\DepartList.xaml",
+              "RelativeToolTip": "WpfApp1\\DepartList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:36:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:39.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\packages.config",
+              "RelativeDocumentMoniker": "WpfApp1\\packages.config",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\packages.config",
+              "RelativeToolTip": "WpfApp1\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T09:44:48.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfEdit.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProfEdit.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfEdit.xaml",
+              "RelativeToolTip": "WpfApp1\\ProfEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:46.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfList.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfList.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProfList.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ProfList.xaml",
+              "RelativeToolTip": "WpfApp1\\ProfList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:36:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScheduleAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleAdd.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ScheduleAdd.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleAdd.xaml",
+              "RelativeToolTip": "WpfApp1\\ScheduleAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T13:19:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScheduleEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleEdit.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ScheduleEdit.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleEdit.xaml",
+              "RelativeToolTip": "WpfApp1\\ScheduleEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserAdd.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\UserAdd.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\UserAdd.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\UserAdd.xaml",
+              "RelativeToolTip": "WpfApp1\\UserAdd.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:35:59.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\UserEdit.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\UserEdit.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\UserEdit.xaml",
+              "RelativeToolTip": "WpfApp1\\UserEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:36:00.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserList.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\UserList.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\UserList.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\UserList.xaml",
+              "RelativeToolTip": "WpfApp1\\UserList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T18:36:01.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\AdminWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\AdminWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T09:29:13.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\entities\\Model1.edmx",
+              "RelativeDocumentMoniker": "WpfApp1\\entities\\Model1.edmx",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WpfApp1\\WpfApp1\\entities\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\admin\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\WpfApp1\\WpfApp1\\entities\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-13T17:33:38.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScheduleAdd.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleAdd.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ScheduleAdd.xaml.cs",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleAdd.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ScheduleAdd.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAEwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:19:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScheduleList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleList.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ScheduleList.xaml.cs",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\ScheduleList.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ScheduleList.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:37:31.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditLecture.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\EditLecture.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\EditLecture.xaml.cs",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\EditLecture.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\EditLecture.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:18:46.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddLecture.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\AddLecture.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AddLecture.xaml.cs",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\AddLecture.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AddLecture.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADwv1sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:11:24.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Kirokumi\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Kafedra\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:34:12.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

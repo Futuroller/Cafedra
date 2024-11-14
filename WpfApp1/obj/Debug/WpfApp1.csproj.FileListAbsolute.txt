@@ -1,0 +1,213 @@
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\AdminWindow.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfWindow.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\AdminWindow.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfWindow.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseAdd.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseEdit.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\CoursesList.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartList.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfList.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserList.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseAdd.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseEdit.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\CoursesList.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartList.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfList.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserList.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartAdd.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartEdit.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartAdd.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartEdit.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfAdd.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfEdit.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfAdd.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfEdit.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserAdd.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserEdit.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserAdd.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserEdit.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleAdd.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleEdit.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleList.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleAdd.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleEdit.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleList.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Document.NET.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Pdf.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Words.NET.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Document.NET.xml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Words.NET.xml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\AddLecture.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\EditLecture.g.cs
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\AddLecture.baml
+C:\Users\admin\Desktop\Новая папка\WpfApp1\WpfApp1\obj\Debug\EditLecture.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Pdf.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Document.NET.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\Xceed.Words.NET.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\AddLecture.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\AdminWindow.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\CoursesList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\EditLecture.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfWindow.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\AddLecture.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\AdminWindow.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\CourseEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\CoursesList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\DepartList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\EditLecture.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ProfWindow.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\ScheduleList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\UserList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\AddLecture.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\AdminWindow.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\CourseAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\CourseEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\CoursesList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\DepartAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\DepartEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\DepartList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\EditLecture.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfWindow.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ScheduleAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ScheduleEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ScheduleList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\UserAdd.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\UserEdit.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\UserList.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\Xceed.Pdf.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\Xceed.Document.NET.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\Xceed.Words.NET.xml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\AddLecture.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\AdminWindow.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\CourseAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\CourseEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\CoursesList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\DepartAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\DepartEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\DepartList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\EditLecture.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ProfWindow.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ScheduleAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ScheduleEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\ScheduleList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\UserAdd.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\UserEdit.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\UserList.baml
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.csproj.Up2Date
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Kirokumi\Desktop\Новая папка\Новая папка\Kafedra\WpfApp1\obj\Debug\WpfApp1.pdb
